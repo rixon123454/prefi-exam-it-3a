@@ -1,10 +1,11 @@
-# Pre-final Exam in Application Lifecycle Management (BSIT-3B)
+# Pre-final Exam in Application Lifecycle Management (BSIT-3A)
 
 > Pre-requisites
 > 
+- composer
 - PHP version must be 8.2 or greater
 - git
-- [fork this repository](https://github.com/ACLC-Tacloban/student-management-api.git)
+- [fork this repository](https://github.com/ACLC-Tacloban/prefi-exam-it-3a)
 
 ### Student Management API
 
@@ -144,7 +145,7 @@ The Student Management API is a tool for managing student data across a variety 
         		"offset": 5,
         		"fields": []
         	],
-        "students": [
+        "subjects": [
         				{...},
         				{...}
         	]
@@ -152,5 +153,17 @@ The Student Management API is a tool for managing student data across a variety 
         ```
         
     
-    > Once you’re done, kindly create a Pull Request to this [repository](https://github.com/ACLC-Tacloban/student-management-api.git) by feature (student-management, subject-management, and student-subject-management [this is the combination of the two]). Provide the necessary details such as the Title and the Description.
-    >
+    > Once you’re done, kindly create a Pull Request to this [repository](https://github.com/ACLC-Tacloban/prefi-exam-it-3a) by feature (student-management, subject-management, and student-subject-management [this is the combination of the two]). Provide the necessary details such as the Title and the Description.
+    > 
+    
+    ### Tutorial
+    
+    > How to Fork a repository
+    > 
+    
+    [https://drive.google.com/file/d/1Z8PsYr4-APEbwLMqIqU6nuCf021R1FsX/view?usp=sharing](https://drive.google.com/file/d/1Z8PsYr4-APEbwLMqIqU6nuCf021R1FsX/view?usp=sharing)
+    
+    > How to create a Pull Request from a Forked Repository
+    > 
+    
+    [https://drive.google.com/file/d/1OWuZpWW7HhjsprtawLhEQ_WL-Pj5Ti1Q/view?usp=sharing](https://drive.google.com/file/d/1OWuZpWW7HhjsprtawLhEQ_WL-Pj5Ti1Q/view?usp=sharing)
